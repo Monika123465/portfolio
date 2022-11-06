@@ -221,7 +221,7 @@ function Courosel() {
             >
               <a
                 target={"_blank"}
-                href=""
+                href="https://github.com/gopalkrushnas063/entertaining-snails-6673-Nordstromrack"
               >
                 <Button
                   bg="rgb(108,99,255)"
@@ -234,7 +234,7 @@ function Courosel() {
               </a>
               <a
                 target={"_blank"}
-                href="https://github.com/gopalkrushnas063/entertaining-snails-6673-Nordstromrack"
+                href="https://bejewelled-tartufo-753ba2.netlify.app/"
               >
                 <Button
                   _hover={{ background: "white", color: "teal.500" }}
